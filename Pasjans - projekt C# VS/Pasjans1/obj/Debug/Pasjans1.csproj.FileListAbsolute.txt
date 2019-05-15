@@ -1,0 +1,40 @@
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\bin\Debug\Pasjans1.exe.config
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\bin\Debug\Pasjans1.exe
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\bin\Debug\Pasjans1.pdb
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csprojAssemblyReference.cache
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\obj\Debug\Pasjans1.Form1.resources
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\obj\Debug\Pasjans1.Properties.Resources.resources
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csproj.GenerateResource.cache
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csproj.CoreCompileInputs.cache
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\obj\Debug\Pasjans1.exe
+C:\Users\Karcio\source\repos\Pasjans1\Pasjans1\obj\Debug\Pasjans1.pdb
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\bin\Debug\Pasjans1.exe.config
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\bin\Debug\Pasjans1.exe
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\bin\Debug\Pasjans1.pdb
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csprojAssemblyReference.cache
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\obj\Debug\Pasjans1.Form1.resources
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\obj\Debug\Pasjans1.Properties.Resources.resources
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csproj.GenerateResource.cache
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csproj.CoreCompileInputs.cache
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\obj\Debug\Pasjans1.exe
+C:\Users\Uczeń\Desktop\Pasjans1\Pasjans1\obj\Debug\Pasjans1.pdb
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\bin\Debug\Pasjans1.exe.config
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\bin\Debug\Pasjans1.exe
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\bin\Debug\Pasjans1.pdb
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csprojAssemblyReference.cache
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\obj\Debug\Pasjans1.Form1.resources
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\obj\Debug\Pasjans1.Properties.Resources.resources
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csproj.GenerateResource.cache
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csproj.CoreCompileInputs.cache
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\obj\Debug\Pasjans1.exe
+D:\no ten górkowski pasjans\Pasjans1\Pasjans1\obj\Debug\Pasjans1.pdb
+D:\Nowy folder (2)\Pasjans1\Pasjans1\bin\Debug\Pasjans1.exe.config
+D:\Nowy folder (2)\Pasjans1\Pasjans1\bin\Debug\Pasjans1.exe
+D:\Nowy folder (2)\Pasjans1\Pasjans1\bin\Debug\Pasjans1.pdb
+D:\Nowy folder (2)\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csprojAssemblyReference.cache
+D:\Nowy folder (2)\Pasjans1\Pasjans1\obj\Debug\Pasjans1.Form1.resources
+D:\Nowy folder (2)\Pasjans1\Pasjans1\obj\Debug\Pasjans1.Properties.Resources.resources
+D:\Nowy folder (2)\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csproj.GenerateResource.cache
+D:\Nowy folder (2)\Pasjans1\Pasjans1\obj\Debug\Pasjans1.csproj.CoreCompileInputs.cache
+D:\Nowy folder (2)\Pasjans1\Pasjans1\obj\Debug\Pasjans1.exe
+D:\Nowy folder (2)\Pasjans1\Pasjans1\obj\Debug\Pasjans1.pdb
